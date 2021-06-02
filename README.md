@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Python files, as well as kakoune
 - 🌱 I’m currently learning Python and Kak
 - 👯 I’m looking to collaborate on Python files
-- 🤔 I’m looking for help with my file-browser ([File-Browser]https://github.com/python128/File-Browser)
+- 🤔 I’m looking for help with my file-browser (![File-Browser]https://github.com/python128/File-Browser)
 - 📫 How to reach me: tejasgudgunti@gmail.com
 
 
