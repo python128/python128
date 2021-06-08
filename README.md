@@ -4,12 +4,12 @@
 ![](https://img.shields.io/badge/Code-Rust-informational?style=plastic&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on my [Todo app](https://github.com/python128/Todo)
+- 🔭 I’m currently working on my CLI [Todo app](https://github.com/python128/Todo)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on [Todo app](https://github.com/python128/Todo)
-- 🤔 I’m looking for help with rust.
+- 👯 I’m looking to collaborate on my CLI [Todo app](https://github.com/python128/Todo)
+- 🤔 I’m looking for help with [rust](https://rust-lang.org).
 - 📫 How to reach me: tejasgudgunti@gmail.com
 
 
