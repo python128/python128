@@ -4,10 +4,6 @@
 ![](https://img.shields.io/badge/Code-Rust-informational?style=plastic&logo=rust&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-![Rust Pic](rust_pic.png)
-![Python pic](Python.png)
-![Kakoune](kakoune.)
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on my [Todo app](https://github.com/python128/Todo)
