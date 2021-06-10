@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 👯 I’m looking to collaborate on my CLI [Logger](https://github.com/python128/Logger-)
 - 🤔 I’m looking for help with [rust](https://rust-lang.org).
-- 📫 How to reach me: tejasgudgunti@gmail.com
 
 
 ![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=python128&theme=radical&layout=compact)
