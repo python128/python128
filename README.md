@@ -13,5 +13,5 @@
 - 📫 How to reach me: tejasgudgunti@gmail.com
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=python128&theme=<THEME_NAME>" />
+![Top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=python128&theme=dark)
 
