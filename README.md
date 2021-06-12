@@ -6,9 +6,9 @@
 
 ## Hi there 👋
 
-- 🔭 I’m currently working on my CLI [Logger](https://github.com/python128/Logger-)
+- 🔭 I’m currently working on my CLI [Logger](https://github.com/python128/Logger)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- 👯 I’m looking to collaborate on my CLI [Logger](https://github.com/python128/Logger-)
+- 👯 I’m looking to collaborate on my CLI [Logger](https://github.com/python128/Logger)
 - 🤔 I’m looking for help with [rust](https://rust-lang.org).
 
 
