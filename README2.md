@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm python128</h1>
 <h3 align="center">A simple guy who codes in rust and python(for now)..</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=python128&label=Profile%20views&color=0e75b6&style=flat" alt="python128" /> </p>
-
 - 🔭 I’m currently working on [Helix-editor](https://github.com/helix-editor/helix)
 
 - 🌱 I’m currently learning **Rust(lang)**
@@ -14,5 +12,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=python128&show_icons=true&locale=en&layout=compact" alt="python128" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=python128&show_icons=true&locale=en" alt="python128" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=python128&" alt="python128" /></p>
