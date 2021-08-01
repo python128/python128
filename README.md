@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm python128</h1>
 <h3 align="center">A simple guy who codes in rust and python(for now)..</h3>
 
-- 🔭 I’m currently working on [Helix-editor](https://github.com/helix-editor/helix)
+- 🔭 I’m currently working on Nothing!
 
 - 🌱 I’m currently learning **Rust(lang)**
 
